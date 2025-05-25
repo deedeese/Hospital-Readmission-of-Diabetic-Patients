@@ -53,5 +53,5 @@ Project includes data pre-processing, model training, evaluation and prediction
 3. Model testing - Model Testing
 
 ## Disclaimer
-This project is created as part of a capstone project and should not be used for any type of medical diagnosis.
+This project is created as part of a capstone and should not be used for any type of medical diagnosis.
 

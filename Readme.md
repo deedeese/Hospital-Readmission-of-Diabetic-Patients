@@ -1,8 +1,6 @@
 # DSML Final project - Hospital Readmission of Diabetic Patients
 This repository contains a Machine Learning Project. Thes project is aimed at developing a machine-learning model to predict whether a diabetes patient is likely to be readmitted to the hospital within 30 days. Predicting readmission can help healthcare providers better allocate resources and improve patient care.
 
-Project includes data pre-processing, model training, evaluation and prediction using Python and its libraries (pandas, numpy, matplotlib, seaborn, scikit-learn
-
 ## Data
 The dataset represents ten years (1999-2008) of clinical care at 130 US hospitals and integrated delivery networks. Each row concerns hospital records of patients diagnosed with diabetes, who underwent laboratory, medications, and stayed up to 14 days. The goal is to determine the early readmission of the patient within 30 days of discharge. The problem is important for the following reasons. Despite high-quality evidence showing improved clinical outcomes for diabetic patients who receive various preventive and therapeutic interventions, many patients do not receive them. This can be partially attributed to arbitrary diabetes management in hospital environments, which fail to attend to glycemic control. Failure to provide proper diabetes care not only increases the managing costs for the hospitals (as the patients are readmitted) but also impacts the morbidity and mortality of the patients, who may face complications associated with diabetes.
 The dataset used in this project is taken from UC Irvine Machine Learning Repository and the link is https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008.
@@ -26,6 +24,24 @@ The instances represent hospitalized patient records diagnosed with diabetes. Th
 - Target feature: readmitted
 - Has missing values : Yes
 
+## Model
+The predictive model in this project is built using machine learning techniques. 
+### Algorithms
+1. Random forest classifier
+2. Decision Tree Classifier
+3. Gradient Boosting Classifier
+4. k-nearest neighbor (k-NN) classifier
+
+### Libraries
+1. pandas
+2. numpy
+3. matplotlib
+4. seaborn
+5. scikit-learn
+
+The trained models are evaluated based on performance metrics such as accuracy, precision, recall, and F1-score and AUC.
+
+Project includes data pre-processing, model training, evaluation and prediction
 ## Codes
 1. Data loading, pre processing - Data Pre Processing.ipynb
 2. Model training, evaluation and fitting - Model Training and Fitting

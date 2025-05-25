@@ -1,4 +1,9 @@
 # DSML Final project - Hospital Readmission of Diabetic Patients
+![image](https://github.com/user-attachments/assets/3c71cfb4-ec55-4f12-8681-4de5e3549e2d) ![image](https://github.com/user-attachments/assets/27d777c6-a4c0-40c6-b26f-ac30040f37cf)![image](https://github.com/user-attachments/assets/224ee425-9663-4eee-9b3b-365337b45a3b)![image](https://github.com/user-attachments/assets/ff2e94aa-48fa-4189-b56b-b61dd4418b44)
+
+
+
+
 This repository contains a Machine Learning Project. Thes project is aimed at developing a machine-learning model to predict whether a diabetes patient is likely to be readmitted to the hospital within 30 days. Predicting readmission can help healthcare providers better allocate resources and improve patient care.
 
 ## Data

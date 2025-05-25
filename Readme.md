@@ -26,8 +26,8 @@ The instances represent hospitalized patient records diagnosed with diabetes. Th
 - Has missing values : Yes
 
  ## Additional data
- 1. ### ICD9 Classification.csv - Classification of ICD-9 Codes (International Classification of Diseases) - 
- 2. ### IDS_mapping.csv - Mapping of features admission_type_id, discharge_disposition_id, admission_source_id - 
+ 1. #### ICD9 Classification.csv - Classification of ICD-9 Codes (International Classification of Diseases) - 
+ 2. #### IDS_mapping.csv - Mapping of features admission_type_id, discharge_disposition_id, admission_source_id - 
 
 ## Model
 The predictive model in this project is built using machine learning techniques. 
